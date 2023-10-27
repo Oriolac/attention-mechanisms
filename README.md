@@ -7,7 +7,11 @@ This repository contains implementations and resources related to "Attention Mec
 The repository is based on the course called "Attention models in NLP" from Coursera. Whether you're a student, researcher, or NLP enthusiast, this repository offers valuable insights into the world of attention, helping you grasp the intricacies of this powerful mechanism.
 
 ## Resources
+- [01-NeuralMachineTranslation](https://github.com/Oriolac/attention-mechanisms/tree/main/01-NeuralMachineTranslation)
 
-- [Readme](https://github.com/Oriolac/attention-mechanisms#readme)
-- [Activity](https://github.com/Oriolac/attention-mechanisms/activity)
-
+## Topics
+- NLP
+- Natural Language Processing
+- Transformers
+- Attention Mechanism
+- Transformer Architecture
